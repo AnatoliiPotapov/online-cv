@@ -13,14 +13,14 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Anatoly Potapov
+tagline: Deep learning researcher
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
+email: anatolii.s.potapov@gmail.com
+phone: +7 996 953 93 12
+website: anatoliipotapov.github.io #do not add http://
 linkedin: alandoe
 github: sharu725
 twitter: '@webjeda'
